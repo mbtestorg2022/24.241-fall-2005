@@ -29,29 +29,234 @@ Course Calendar
 
 The calendar below provides information on the course topics, which are taken from chapters in the course manuscript. The manuscript entitled _Logic: The Art of Persuasion and the Science of Truth_ was written by the faculty member and is available in the [readings]({{< baseurl >}}/pages/readings) section.
 
-| Chapter # | Topics |
-| --- | --- |
-| 1 | Introduction: The Place of Logic Among the Sciences |
-| 2 | Sets and Functions |
-| 3 | Sentential Calculus Introduction |
-| 4 | Sentential Calculus Semantics |
-| 5 | Extension Theorem |
-| 6 | State Descriptions, Disjunctive Normal Form, and Expressive Completeness |
-| 7 | SC Substitutions |
-| 8 | The Search-for-Counterexample Test for Validity |
-| 9 | Compactness Theorem |
-| 10 | SC Derivations |
-| 11 | SC Completeness |
-| 12 | Substitution of Equivalents |
-| 13 | SC Translations |
-| 14 | Trouble with "If"s |
-| 15 | Monadic Predicate Calculus |
-| 16 | Derivations in the Monadic Predicate Calculus |
-| 17 | Completeness in the Monadic Predicate Calculus |
-| 18 | Predicate Calculus |
-| 19 | Predicate Calculus Derivations |
-| 20 | Identity |
-| 21 | Russell's Theory of Definite Descriptions |
-| 22 | Sense and Reference |
-| 23 | Function Signs |
-| 24 | Sentential Calculus Revisited: Boolean Algebra
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Chapter #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Place of Logic Among the Sciences
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Sets and Functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Sentential Calculus Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sentential Calculus Semantics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Extension Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+State Descriptions, Disjunctive Normal Form, and Expressive Completeness
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+SC Substitutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Search-for-Counterexample Test for Validity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Compactness Theorem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+SC Derivations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+SC Completeness
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Substitution of Equivalents
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+SC Translations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Trouble with "If"s
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Monadic Predicate Calculus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Derivations in the Monadic Predicate Calculus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Completeness in the Monadic Predicate Calculus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Predicate Calculus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Predicate Calculus Derivations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Identity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Russell's Theory of Definite Descriptions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Sense and Reference
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Function Signs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Sentential Calculus Revisited: Boolean Algebra
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
